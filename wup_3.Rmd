@@ -44,7 +44,7 @@ The front and back seats has around the same number of people while the back sea
 model1 <- aov(alcohol~Seat,data=davisdata)
 summary.aov(model1)  
 ```
-the probability of getting these results are one out of ten thousand, Now a further investigation is needed to see which seats are different from the others.  
+the probability of getting these results are one out of ten thousand, Now a further investigation is needed to see which seats are different from the others.    
 
 ```{r}
 par(mar = c(3, 8.7, 2, 2))
