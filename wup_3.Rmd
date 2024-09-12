@@ -51,6 +51,8 @@ par(mar = c(3, 8.7, 2, 2))
 plot(TukeyHSD(model1),las=2)
 ``` 
 
+The front and the back are different. The middle and the front are not different. the back is different from the front and the back.   
+
 ## Conclusions
 
 
