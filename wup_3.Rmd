@@ -55,4 +55,5 @@ The front and the back are different. The middle and the front are not different
 
 ## Conclusions
 
+I created a box plot to visually compare how much each row drinks alcohol. The numerical summary revealed that people in the back seat drank twice as much as those in the front and middle seats. When comparing three or more groups, you typically use a one-way ANOVA test. If the probability value from this test falls between 0 and 1, you need to look into the results further and conduct additional tests.
 
