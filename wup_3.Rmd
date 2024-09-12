@@ -37,7 +37,7 @@ boxplot(alcohol~Seat,data=davisdata)
 ```{r}
 favstats(alcohol~Seat,data=davisdata)
 ```
-The front and back seats has around the same number of people while the back seats has more than twice their numbers. This summary shows that while the back seat had 32 people the backseat had a max of 55 drinks which is twice the numbers of front and middle seats. The average of drinks the back seat are at 9.6and the drinks for the front seat are about 2 and the back has a median of about 3. 
+The front and back seats has around the same number of people while the back seats has more than twice their numbers. This summary shows that while the back seat had 32 people the backseat had a max of 55 drinks which is twice the numbers of front and middle seats. The average of drinks the back seat are at 9.6and the drinks for the front seat are about 2 and the back has a median of about 3.     
 
 ## Inferential Tests
 ```{r}
